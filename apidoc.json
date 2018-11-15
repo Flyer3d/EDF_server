@@ -1,0 +1,12 @@
+{
+  "name": "EDF REST API",
+  "version": "0.3.0",
+  "description": "EDF REST API project",
+  "title": "EDF REST API description",
+  "url" : "http://192.168.137.94:8280/",
+  "sampleUrl": "http://192.168.137.94:8280/",
+  "template": {
+  	"withCompare": true,
+  	"withGenerator": true
+  }
+}
